@@ -1,6 +1,7 @@
 ## Greetings! 👋
 
 Welcome to WhicheverAI 🚀
+
 🌐 Our Vision:
 At WhicheverAI, we embody the spirit of boundless exploration in the realm of artificial intelligence. "Whichever" signifies our commitment to seamlessly integrate and transcend the limitations of diverse AI technologies. We believe in fostering innovation without constraints, making us a pioneering force in the ever-evolving landscape of AI development.
 
