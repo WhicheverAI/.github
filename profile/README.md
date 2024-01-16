@@ -5,7 +5,7 @@ Welcome to WhicheverAI 🚀
 🌐 Our Vision:
 At WhicheverAI, we embody the spirit of boundless exploration in the realm of artificial intelligence. "Whichever" signifies our commitment to seamlessly integrate and transcend the limitations of diverse AI technologies. We believe in fostering innovation without constraints, making us a pioneering force in the ever-evolving landscape of AI development.
 
-💡 About Us:
+💻 About Us:
 WhicheverAI stands as an open-source software organization, dedicated to breaking barriers and unifying a spectrum of AI technologies. Our mission is to create a future where AI knows no bounds, embracing every technology, audience, and purpose with unparalleled versatility.
 
 💡 How to Contribute:
